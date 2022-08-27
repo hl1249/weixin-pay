@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <button bindtap="loginOpenId">获取opid登录</button>
+  <view style="height: 30rpx;"></view>
+  <button bindtap="pay">支付</button>
+</view>
